@@ -2,7 +2,7 @@
 const contact = {
     firstName: "Hibatallah",
     lastName: "El Hamidy",
-    phone: "+212600000000",
+    phone: "+212 7 71 75 61 81",
     email: "example@gmail.com",
     linkedin: "https://www.linkedin.com/in/TON-PROFIL",
     instagram: "https://www.instagram.com/TON-COMPTE"
