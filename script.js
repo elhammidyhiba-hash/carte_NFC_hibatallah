@@ -3,9 +3,9 @@ const contact = {
     firstName: "Hibatallah",
     lastName: "El Hamidy",
     phone: "+212 7 71 75 61 81",
-    email: "example@gmail.com",
-    linkedin: "https://www.linkedin.com/in/TON-PROFIL",
-    instagram: "https://www.instagram.com/TON-COMPTE"
+    email: "elhammidyhiba@gmail.com",
+    linkedin: "https://www.linkedin.com/in/hibatallah-el-hamidy-94344b3b3/",
+    instagram: "https://www.instagram.com/hibatallahelhamidy/"
 };
 
 // 1. Enregistrer le contact
